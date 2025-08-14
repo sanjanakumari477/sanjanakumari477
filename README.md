@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Sanjana Kumari
 
-🎓 Currently pursuing my studies at **ZA Islamia College of Technology and Management**  
+🎓 Currently pursuing my studies at **Maulana Mazharul Haque Arabic & Persian University
+Patna**  
 💻 Passionate about programming, software development, and problem-solving
 
 ---

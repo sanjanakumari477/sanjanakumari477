@@ -14,7 +14,7 @@ Patna**
 - SQL 🗃️
 - C++ 💠
 - C 🔧
-
+- Flask 
 ### 🛠️ Tools & Platforms
 - Git & GitHub 🐙
 - VS Code 🖋️
